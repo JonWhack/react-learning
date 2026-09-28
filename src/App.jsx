@@ -1,5 +1,5 @@
 
-import Day16 from './days/Day16';
+import Day16 from './days/Day16'
 
 function App() {
   return <Day16 />;
