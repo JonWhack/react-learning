@@ -1,8 +1,8 @@
 
-import Day21 from './days/Day21'
+import Week3practice from './days/Week3practice';
 
 function App() {
-  return <Day21 />;
+  return <Week3practice />;
 }
 
 export default App;
